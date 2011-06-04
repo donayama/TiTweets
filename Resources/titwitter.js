@@ -132,7 +132,7 @@ var TiTwitter = {};
 					return;
 				}
 				var apiParams = {
-					apikey:   'f56Abm9eduUqMk9864p3dt0XO0T0e8bs',
+					apikey:   '【Reat it LaterのAPIキー】',
 					username: ril_username,
 					password: ril_password,
 					url:      url
